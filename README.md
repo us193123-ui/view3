@@ -86,4 +86,4 @@ BattleScene ← BgmPlayer ← BattleList
 ↓
 
 WinScene ← BgmPlayer ← WinList
-  /  LoseScene ← BgmPlayer ← LoseList
+  /  LoseScene ← BgmPlayer ← LoseLis
